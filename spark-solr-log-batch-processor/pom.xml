@@ -21,7 +21,7 @@
     <spark.version>1.6.0-cdh5.8.1</spark.version>
     <scala.binary.version>2.10</scala.binary.version>
     <scala.version>2.10.3</scala.version>
-    <solr.version>4.10.3-cdh5.8.1</solr.version>
+    <solr.version>8.2.0</solr.version>
     <kafka.version>0.9.0-kafka-2.0.2</kafka.version>
   </properties>
 
